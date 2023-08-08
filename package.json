@@ -1,0 +1,42 @@
+{
+  "name": "beans-react",
+  "version": "0.0.1",
+  "description": "Espresso Design System",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espresso-despesas/beans-react.git"
+  },
+  "keywords": [
+    "design",
+    "material",
+    "react",
+    "espresso"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/espresso-despesas/beans-react/issues"
+  },
+  "homepage": "https://github.com/espresso-despesas/beans-react#readme",
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mdi/js": "^7.2.96",
+    "@mdi/react": "^1.6.1",
+    "@mui/base": "^5.0.0-beta.10",
+    "@mui/material": "^5.14.1",
+    "@mui/utils": "^5.14.3",
+    "@mui/x-date-pickers": "^6.10.2",
+    "@mui/x-date-pickers-pro": "^6.10.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
